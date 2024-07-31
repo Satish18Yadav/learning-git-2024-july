@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 the entire e submerged
+=======
+let's check the conflict case file
+>>>>>>> nipon
 

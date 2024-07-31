@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 vhagar, yes this is the merging of nipon into master
+=======
+vhagar this is the nipon branch stay here
+>>>>>>> nipon
 
