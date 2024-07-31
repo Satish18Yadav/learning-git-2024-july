@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-the entire e submerged
-=======
-let's check the conflict case file
->>>>>>> nipon
+this file has to be empty
+
 
