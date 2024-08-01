@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-oooooooooooo
-=======
-hit
->>>>>>> hit
+this is for the remote file
+
